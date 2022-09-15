@@ -1,0 +1,16 @@
+{
+  "name": "profile-card-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://branks1.github.io/profile-card-component/",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
